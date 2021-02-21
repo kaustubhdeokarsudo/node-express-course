@@ -18,7 +18,7 @@
     "url": "https://github.com/kaustubhdeokarsudo/node-express-course/issues"
   },
   "dependencies": {
-      "express":"^4.17.1"
+    "express": "^4.17.1"
   },
   "homepage": "https://github.com/kaustubhdeokarsudo/node-express-course#readme"
 }
